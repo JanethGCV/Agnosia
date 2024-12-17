@@ -1,0 +1,8 @@
+mysql-connector-python
+opencv-python
+mediapipe
+pillow
+pygame
+tkinter
+matplotlib
+numpy
